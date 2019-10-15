@@ -57,7 +57,7 @@ $cuerpo='<!DOCTYPE html>
 						    <table >
 							    <tr>
 								    <td align="center">
-								    	<!--<img src="clase/banner.png">-->
+								    	<!--<img src="clase/banner.png">-->//debe de ser ruta completa: https://wsbrb-services.com/appsmo/servicios/clase/logo-ammtac.png
 								    </td>
 							    </tr>
 							    <tr>
